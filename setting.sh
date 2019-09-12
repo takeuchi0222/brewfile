@@ -1,4 +1,5 @@
 #!/bin/bash
+curl -LOk https://raw.githubusercontent.com/ytakeuchi/brewfile/master/Brewfile
 printf '\e[33;1minstalling homebrew... \e[m\n'
 which brew >/dev/null 2>&1 || /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 printf '\e[34mrun brew doctor... \e[m\n'

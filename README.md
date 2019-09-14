@@ -3,5 +3,5 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/ytakeuchi/brewfile)
 ### Usage
 ```
-$ curl -fsSL https://raw.githubusercontent.com/takeuchi0222/brewfile/master/setting.sh| sh
+$ curl -fsSL https://raw.githubusercontent.com/ytakeuchi0222/brewfile/master/setting.sh| sh
 ```
